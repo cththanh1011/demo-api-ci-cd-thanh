@@ -1,3 +1,4 @@
+
 name: Production Monitor
 
 on:
@@ -24,4 +25,4 @@ jobs:
 
       - name: Chạy kịch bản Monitor trực tiếp từ Cloud
         run: |
-          postman collection run "59100143-02e26771-5653-41b2-a6c1-a752aeb39c8c"
+          postman collection run "59100143-02e26771-5653-41b2-a6c1-a752aeb39c8"
